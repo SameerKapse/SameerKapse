@@ -1,31 +1,77 @@
-<h1 align="center">Hi 👋, I'm Sameer Kapse</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+# 🛡️ Hi there, I'm Sameer Kapse 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sameerkapse&label=Profile%20views&color=0e75b6&style=flat" alt="sameerkapse" /> </p>
-<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
-<p align="left"> <a href="https://twitter.com/sameerkapse27" target="blank"><img src="https://img.shields.io/twitter/follow/sameerkapse27?logo=twitter&style=for-the-badge" alt="sameerkapse27" /></a> </p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sameerkapse/)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sameerkapse43@gmail.com)
 
-- 🔭 I’m currently working on **Web Development Projects**
+---
 
-- 🌱 I’m currently learning **Backend Development, DSA, ReactJs**
+### 👨‍💻 About Me
 
-- 💬 Ask me about **HTML, CSS, JS, C++, Linux**
+I am a **SOC Analyst (L1) & Cybersecurity Professional** with hands-on experience in **SIEM monitoring, threat detection, incident triage, and Vulnerability Assessment & Penetration Testing (VAPT)**.
 
-- 📫 How to reach me **sameerkapse43.gmail.com**
+- 🔍 Skilled in analyzing phishing, malware, brute-force, and endpoint alerts using **Microsoft Sentinel**, **Splunk Enterprise**, and **EDR tools**.
+- 🎯 Experienced in web application and network vulnerability assessments aligned with **OWASP Top 10**, **NIST**, and **MITRE ATT&CK**.
+- 📜 **Certified Ethical Hacker (CEH)** | **CCNA** | **CHFI**
+- 📍 Based in **Pune, Maharashtra, India**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/sameerkapse27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sameerkapse27" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sameer kapse" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sameer kapse" height="30" width="40" /></a>
-<a href="https://fb.com/sameer kapse" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sameer kapse" height="30" width="40" /></a>
-<a href="https://instagram.com/_s.a.m._27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_s.a.m._27" height="30" width="40" /></a>
+---
+
+### 🛠️ Tech Stack & Security Toolkit
+
+| Domain | Tools & Technologies |
+|---|---|
+| **SIEM & Log Analysis** | Microsoft Sentinel, Splunk Enterprise, KQL, SPL, Sysmon, Windows Event Logs, Linux Logs |
+| **EDR & Threat Intel** | Microsoft Defender for Endpoint, VirusTotal, AbuseIPDB, AlienVault OTX, Any.Run |
+| **VAPT & Offensive Security** | Burp Suite, OWASP ZAP, Nessus, SQLMap, Nikto, Gobuster, Metasploitable, DVWA |
+| **Network Security & Analysis** | Wireshark, Nmap, Suricata, tcpdump, Netcat, TCP/IP, DNS, VPN, Firewalls |
+| **Frameworks & Methodologies** | MITRE ATT&CK, NIST CSF, Cyber Kill Chain, OWASP Top 10, SANS Top 25, CVSS/CVE |
+| **Operating Systems & Scripting** | Kali Linux, Ubuntu, Windows / Active Directory Basics, Bash, Python, PowerShell |
+
+---
+
+### 📂 Featured Cybersecurity Projects
+
+- 🚨 **Microsoft Sentinel SOC Monitoring**
+  - Monitored real-time alerts and investigated incidents using custom **KQL** queries, authentication logs, and threat hunting workflows.
+  - Investigated endpoint alerts generated via Microsoft Defender.
+
+- 🔎 **Splunk Brute-Force Detection Lab**
+  - Created custom SPL detection queries to catch suspicious repeated login failures.
+  - Correlated Windows Security **Event ID 4625** logs to track and alert on credential-stuffing attempts.
+
+- 📧 **Phishing Email Investigation & Triage**
+  - Extracted IOCs through email header analysis, SPF/DKIM validation, and URL reputation scoring.
+  - Inspected suspicious attachments and URLs utilizing VirusTotal and AbuseIPDB.
+
+- 🌐 **Web Application Penetration Testing (OWASP Top 10)**
+  - Audited vulnerable targets for SQLi, XSS, Broken Authentication, Security Misconfigurations, and IDOR using Burp Suite and OWASP ZAP.
+  - Produced comprehensive remediation reports featuring CVSS scoring and reproduction steps.
+
+- 🧪 **Enterprise VAPT Home Lab**
+  - Built a virtualized testing environment with Kali Linux, DVWA, Metasploitable2, and Windows/Ubuntu endpoints to simulate real-world vulnerability discovery and mitigation.
+
+---
+
+### 📜 Certifications
+
+- 🏅 **Certified Ethical Hacker (CEH)** – EC-Council
+- 🌐 **Cisco Certified Network Associate (CCNA)** – Cisco
+- 🔍 **Computer Hacking Forensic Investigator (CHFI)** – Seven Mentor
+- 🛡️ **SOC Analyst** – Seven Mentor
+- 🎯 **Web Application Penetration Testing (WAPT)** – Seven Mentor
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical" alt="GitHub Streak" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sameerkapse&show_icons=true&locale=en&layout=compact" alt="sameerkapse" /></p>
+### 📬 Connect With Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sameerkapse&show_icons=true&locale=en" alt="sameerkapse" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sameerkapse&" alt="sameerkapse" /></p>
+- 💼 **LinkedIn:** [linkedin.com/in/sameerkapse](https://www.linkedin.com/in/sameerkapse/)
+- ✉️ **Email:** [sameerkapse43@gmail.com](mailto:sameerkapse43@gmail.com)
